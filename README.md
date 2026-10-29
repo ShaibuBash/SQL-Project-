@@ -68,5 +68,5 @@
 
 
 
-# Feel free to explore the repository! If you have any questions, feedback, or want to connect, reach out to me via email at \[bashirushaibu@gmail.com](mailto:bashirushaibu@gmail.com).
+# \*Feel free to explore the repository! If you have any questions, feedback, or want to connect, reach out to me via email at \[bashirushaibu@gmail.com](mailto:bashirushaibu@gmail.com).\*
 
